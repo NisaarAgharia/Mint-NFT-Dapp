@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD3d468A82855099ee66726250a4F1D62E0Cb6CAF",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xD3d468A82855099ee66726250a4F1D62E0Cb6CAF",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The PooP Club",
+  "SYMBOL": "POOP",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-poop-club",
+  "SHOW_BACKGROUND": true
+}
