@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xD3d468A82855099ee66726250a4F1D62E0Cb6CAF",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xD3d468A82855099ee66726250a4F1D62E0Cb6CAF",
+  "CONTRACT_ADDRESS": "0x1485795849efEbd166892b7f54D4dA77b3aAf371",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1485795849efebd166892b7f54d4da77b3aaf371",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "The PooP Club",
-  "SYMBOL": "POOP",
+  "SYMBOL": "PooP",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-poop-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-poop-club",
   "SHOW_BACKGROUND": true
 }
